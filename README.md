@@ -1,2 +1,2 @@
-# SAG
-เซฟเวอร์ SAG
+# AETH
+ภาษา AETH
